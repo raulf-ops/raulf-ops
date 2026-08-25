@@ -1,7 +1,7 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,git,github,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
