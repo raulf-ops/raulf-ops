@@ -13,36 +13,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raulf-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulf-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=raulf-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🚀 Projects
-
-<!--
-  Remplace OWNER/REPO par tes vrais dépôts publics.
-  Ce widget "pin" tire les infos directement depuis GitHub, donc
-  aucun risque de lien cassé tant que le repo existe et est public.
--->
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=raulf-ops&repo=NOM_DU_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/raulf-ops/NOM_DU_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=raulf-ops&repo=NOM_DU_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/raulf-ops/NOM_DU_REPO_2)
-
-</div>
-
-<br/>
-
 ## 📫 Contact / Réseaux
 
 <div align="center">
