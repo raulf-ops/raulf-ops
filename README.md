@@ -5,16 +5,6 @@
 
 <br/>
 
-## 👋 Just a tech guy 💻
-
-- 🎓 J'apprends **JavaScript** en ce moment
-- 🌐 Je connais **HTML** et **CSS**
-- 🐍 Je touche un peu à **Python**
-- 🇨🇦 Basé à Montréal, Québec
-- 📌 En train de construire des projets et d'apprendre en continu
-
-<br/>
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
